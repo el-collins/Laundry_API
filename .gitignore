@@ -1,0 +1,10 @@
+.vscode
+.mypy_cache
+docker-stack.yml
+*.txt
+.env
+*.code-workspace
+.s3cfg
+.idea
+.DS_Store
+cookiecutter-config-file.yml
